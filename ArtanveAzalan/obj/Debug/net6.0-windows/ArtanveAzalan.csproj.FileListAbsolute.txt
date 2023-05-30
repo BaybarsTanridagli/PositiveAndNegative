@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\bin\Debug\net6.0-windows\ArtanveAzalan.exe
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\bin\Debug\net6.0-windows\ArtanveAzalan.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\bin\Debug\net6.0-windows\ArtanveAzalan.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\bin\Debug\net6.0-windows\ArtanveAzalan.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\bin\Debug\net6.0-windows\ArtanveAzalan.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\refint\ArtanveAzalan.dll
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.pdb
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ArtanveAzalan.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB PROJE\ArtanveAzalan\obj\Debug\net6.0-windows\ref\ArtanveAzalan.dll
